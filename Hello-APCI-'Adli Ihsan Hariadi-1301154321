@@ -1,6 +1,12 @@
-Program Hello;
-        Uses Crt;
-        Begin
-            ClrScr;
-            Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
-        End
+Program Hello; 
+            Uses Crt;
+            Begin
+                ClrScr;
+                Writeln(‘Hello’);
+                Writeln(‘1301154321’); 
+                Writeln(‘M. Zikri Cirrus Marquel Bismar’); 
+                Writeln(‘IF 39-13’); 
+                Writeln(‘Adli Ihsan Hariadi’); 
+                Writeln(‘1301154335’); 
+                Writeln(‘Modul 6’); 
+            End
